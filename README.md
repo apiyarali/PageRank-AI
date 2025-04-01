@@ -32,13 +32,13 @@ Search engines rank web pages by importance based on how frequently they are lin
 ### Random Surfer Model
 The algorithm models a user who randomly follows links on a webpage or jumps to a random page with a small probability (damping factor `d`). This allows for a fairer distribution of ranks across the web graph.
 
-<img src="https://github.com/apiyarali/PageRank-AI/blob/aded483b32d84ef23ad9ae77e81a19082e883ca5/screenshots/random_surfer.png" alt="Minesweeper AI Game" width="250">
-<img src="https://github.com/apiyarali/PageRank-AI/blob/aded483b32d84ef23ad9ae77e81a19082e883ca5/screenshots/random_surfer_network_disconnected.png" alt="Minesweeper AI Game" width="250">
+<img src="https://github.com/apiyarali/PageRank-AI/blob/aded483b32d84ef23ad9ae77e81a19082e883ca5/screenshots/random_surfer.png" alt="Minesweeper AI Game" width="200">
+<img src="https://github.com/apiyarali/PageRank-AI/blob/aded483b32d84ef23ad9ae77e81a19082e883ca5/screenshots/random_surfer_network_disconnected.png" alt="Minesweeper AI Game" width="200">
 
 ### Iterative Approach
 The mathematical PageRank formula recursively defines a page's rank based on the ranks of pages linking to it, iterating until values stabilize.
 
-<img src="https://github.com/apiyarali/PageRank-AI/blob/aded483b32d84ef23ad9ae77e81a19082e883ca5/screenshots/iterative.png" alt="Minesweeper AI Game" width="250">
+<img src="https://github.com/apiyarali/PageRank-AI/blob/aded483b32d84ef23ad9ae77e81a19082e883ca5/screenshots/iterative.png" alt="Minesweeper AI Game" width="200">
 
 ---
 
